@@ -7,12 +7,6 @@
 - Regression Models
 - Natural Language Processing<br/>
 
-## 🔥 A Great Passion With My Hobbies:
-- Basketball
-- Golf
-- Drums
-- Programming<br/>
-
 ## 📝 Work Experience:
 - Artificial Intelligence Internship at Sinarmas Land
 - Artificial Intelligence Internship at Social Bread
@@ -24,6 +18,12 @@
 - House Price Prediction
 - TikTok View Span Prediction
 - Hospital Patient Record Diagnosis<br/>
+
+## 🔥 A Great Passion With My Hobbies:
+- Basketball
+- Golf
+- Drums
+- Programming<br/>
 
 ## 📫 How to reach me: 
 - Discord: simplydyl<br/>
