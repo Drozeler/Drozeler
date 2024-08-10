@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently in High School
-- 👯 I’m looking to collaborate on Google Colabatory
+- 👯 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me (discord): simplydyl
 - 😄 Pronouns: he/him
 
