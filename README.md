@@ -35,4 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drozeler&layout=donut&theme=midnight-purple)](https://github.com/Drozeler/github-readme-stats)<br/>
 
 ## Streaks:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drozeler&" alt="drozeler" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drozeler&theme=midnight-purple"/></p>
