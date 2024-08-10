@@ -32,7 +32,7 @@
 ![Drozeler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler&show_icons=true&theme=midnight-purple)<br/>
 
 ## Programming Languages:
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=drozeler&show_icons=true&locale=en&layout=compact)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drozeler&layout=donut&theme=midnight-purple)](https://github.com/Drozeler/github-readme-stats)<br/>
 
 ## Streaks:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drozeler&" alt="drozeler" /></p>
