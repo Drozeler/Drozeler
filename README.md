@@ -1,11 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Drozeler/Drozeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 - 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently in High School
 - 👯 I’m looking to collaborate on Google Colabatory
@@ -24,4 +17,3 @@ Favourite Projects:
 - TikTok View Span Prediction
 - Hospital Patient Record Diagnosis
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler)](https://github.com/anuraghazra/github-readme-stats)
--->
