@@ -13,7 +13,8 @@
 - Drums
 - Programming<br/><br/>
 
-## 📫 How to reach me (discord): simplydyl<br/><br/>
+## 📫 How to reach me: 
+- Discord: simplydyl<br/><br/>
 
 ## 📝 Work Experience
 - Artificial Intelligence Internship at Sinarmas Land
