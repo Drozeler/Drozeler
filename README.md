@@ -28,4 +28,5 @@
 - TikTok View Span Prediction
 - Hospital Patient Record Diagnosis<br/><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler)](https://github.com/anuraghazra/github-readme-stats)
+![Drozeler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler&show_icons=true&theme=midnight-purple)
+
