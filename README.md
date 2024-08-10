@@ -1,17 +1,26 @@
-## Hi there 👋
-- 🔭 I’m currently working on Deep Learning
-- 🌱 I’m currently in High School
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me (discord): simplydyl
-- 😄 Pronouns: he/him
+### Hi, I'm Drozeler👋
+👨‍💻 A High School Student That is Interested in the Possibilities of Artificial Intelligence<br/>
 
-Work Experience
+🔭 Working and Exploring Varieties of Machine Learning
+- Data Science
+- Deep Learning
+- Regression Models
+- Natural Language Processing<br/>
+
+🔥 A Great Passion With My Hobbies
+- Basketball
+- Golf
+- Drums
+- Programming<br/>
+📫 How to reach me (discord): simplydyl<br/>
+
+📝 Work Experience
 - Artificial Intelligence Internship at Sinarmas Land
 - Artificial Intelligence Internship at Social Bread
 - Information Technology Internship at PT Tatalogam Lestari
 - Digital Marketing Internship at Danone Indonesia (AQUA)
 
-Favourite Projects:
+💻 Favourite Projects:
 - Simple Indonesian Stock Predictor
 - House Price Prediction
 - TikTok View Span Prediction
