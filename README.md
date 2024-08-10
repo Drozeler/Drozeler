@@ -13,9 +13,6 @@
 - Drums
 - Programming<br/>
 
-## 📫 How to reach me: 
-- Discord: simplydyl<br/>
-
 ## 📝 Work Experience:
 - Artificial Intelligence Internship at Sinarmas Land
 - Artificial Intelligence Internship at Social Bread
@@ -27,6 +24,9 @@
 - House Price Prediction
 - TikTok View Span Prediction
 - Hospital Patient Record Diagnosis<br/>
+
+## 📫 How to reach me: 
+- Discord: simplydyl<br/>
 
 ## Stats:
 ![Drozeler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler&show_icons=true&theme=midnight-purple)<br/>
