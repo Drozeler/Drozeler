@@ -28,7 +28,8 @@
 - TikTok View Span Prediction
 - Hospital Patient Record Diagnosis<br/><br/>
 
-![Drozeler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler&show_icons=true&theme=midnight-purple)![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=drozeler&show_icons=true&locale=en&layout=compact)
+![Drozeler's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drozeler&show_icons=true&theme=midnight-purple)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=drozeler&show_icons=true&locale=en&layout=compact)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drozeler" alt="drozeler" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
