@@ -1,5 +1,5 @@
 # Hi, I'm Drozeler👋
-👨‍💻 A High School Student That is Interested in the Possibilities of Artificial Intelligence<br/>
+👨‍💻 A High School Student Interested in the Possibilities of Artificial Intelligence<br/>
 
 ## 🔭 Working and Exploring Varieties of Machine Learning:
 - Data Science
