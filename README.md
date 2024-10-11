@@ -17,7 +17,8 @@
 - Simple Indonesian Stock Predictor
 - House Price Prediction
 - TikTok View Span Prediction
-- Hospital Patient Record Diagnosis<br/>
+- Hospital Patient Record Diagnosis
+- Wharton Investment Competition Data Filter Interface<br/>
 
 ## 🔥 A Great Passion With My Hobbies:
 - Basketball
